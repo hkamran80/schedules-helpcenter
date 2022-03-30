@@ -1,0 +1,50 @@
+[
+    {
+        "id": "feedback",
+        "name": "Giving Feedback",
+        "description": "How to use the Schedules feedback form",
+        "videoLink": null
+    },
+    {
+        "id": "viewing-schedules",
+        "name": "Viewing Schedules",
+        "description": "How to view schedules",
+        "videoLink": null
+    },
+    {
+        "id": "period-names",
+        "name": "Period Names",
+        "description": "How to edit period names",
+        "videoLink": null
+    },
+    {
+        "id": "notifications",
+        "name": "Notifications",
+        "description": "How to edit notification settings",
+        "videoLink": null
+    },
+    {
+        "id": "install",
+        "name": "Installing Schedules",
+        "description": "How to install Schedules to your device",
+        "videoLink": null
+    },
+    {
+        "id": "update",
+        "name": "Updating Schedules",
+        "description": "How to update Schedules",
+        "videoLink": null
+    },
+    {
+        "id": "analytics",
+        "name": "Understanding Analytics in Schedules",
+        "description": "Understand analytics in Schedules",
+        "videoLink": null
+    },
+    {
+        "id": "add-topic",
+        "name": "Adding a Help Topic",
+        "description": "How to create a help topic for Schedules",
+        "videoLink": null
+    }
+]

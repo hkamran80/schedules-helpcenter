@@ -1,16 +1,5 @@
-Schedules does not currently have any apps that can be downloaded through various app stores. It can, however, be installed from the web. Here's how.
-
 ### Android
-1. Open Chrome
-    - You can use any other browser, but for the best experience, use Chrome.
-2. Open Schedules
-3. If you see the banner at the bottom that says "Add Schedules to your home screen", click that. Otherwise, tap the three vertical dots in the address bar, then tap "Install"
-4. Wait for the app to finish installing
-5. Open the app, if it doesn't automatically open
-    - Schedules will appear in your app drawer or on your home screen
-6. Enjoy!
-
-**Note:** A beta version of Schedules for Android is available in the [Discord server](https://discord.gg/M586RvpCWP), in the "Schedules for Android" thread in the "Schedules" channel in the "Creations" category.
+Schedules can be [installed through the Play Store](https://play.google.com/store/apps/details?id=com.hkamran.schedules)!
 
 ### iOS
 1. Open Safari
